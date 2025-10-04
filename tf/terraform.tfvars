@@ -1,0 +1,5 @@
+github_owner              = "NikolaiGorovikov"
+github_repo               = "isfebruary29today"
+github_branch             = "main"
+domain_name               = "isfebruary29.today"
+subdomain                 = "www"
